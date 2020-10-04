@@ -1,13 +1,13 @@
-package com.example.moke;
+package com.markerhub;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MokeApplication {
+public class BlogsApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(MokeApplication.class, args);
+        SpringApplication.run(BlogsApplication.class, args);
     }
 
 }
